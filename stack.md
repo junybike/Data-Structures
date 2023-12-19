@@ -33,7 +33,7 @@ Implementation file:
 ```C++
 #include "Stack.h"
 
-Stack::Stack()
+Stack::Stack() {}
 Stack::~Stack()
 {
   Node *temp = head;
@@ -104,3 +104,4 @@ int Stack::peek()
   }
   return temp->data;
 }
+```
