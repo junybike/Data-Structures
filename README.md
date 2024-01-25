@@ -1,5 +1,5 @@
 # Data-Structure
-Data structures from CMPT 125, CMPT 225.
+Data structures from CMPT 225, CMPT 125.
 
 List of data structures:
 - [Linked list](linklist.md)
